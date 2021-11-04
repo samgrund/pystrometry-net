@@ -1,0 +1,10 @@
+
+.DS_Store
+
+.ipynb_checkpoints/Testing notebook-checkpoint.ipynb
+
+pystrometry/__pycache__/__init__.cpython-39.pyc
+
+tmp/
+
+pystrometry/__pycache__/
