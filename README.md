@@ -6,6 +6,10 @@ The purpose of this project is to expose the functionality of local plate solvin
 
 ## Installation
 Pystrometry.net requires a local installation of Astrometry.net with appropriate index files. Astrometry must be in PATH!
+When Astrometry.net is installed, pystrometry-net can be installed by
+```
+pip install pystrometry-net
+```
 
 ## Usage
 Pystrometry.net contains a wrapper for the solve-field command from astrometry.
